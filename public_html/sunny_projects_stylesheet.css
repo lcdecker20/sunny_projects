@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+/*
+ CSS created with CSE HTML Validator
+*/
+
+body {
+background: #F1E4B3;
+}
+
+p {
+    font-size:14px;
+    }
+    
+h1 {
+    color: #133046;
+}
+
+img{
+    border-style: double;
+    color: #15959F;
+}
+
+table {
+    border-style: groove;
+    }
+    
+.even{
+    background-color: white;
+    }
+.odd{
+    background-color: green;
+    }
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F26144;
+  font-family: arial,sans-serif;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
