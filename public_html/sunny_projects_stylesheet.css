@@ -4,6 +4,9 @@
  CSS created with CSE HTML Validator
 */
 
+
+    
+
 body {
 background: #F1E4B3;
 }
@@ -12,9 +15,19 @@ p {
     font-size:14px;
     }
     
+
+    
 h1 {
-    color: #133046;
+    
+    text-align: center;
+    font-size: 40px;
 }
+
+h2 {
+    color: #133046;
+    text-align: center;
+    font-size: 30px;
+    }
 
 img{
     border-style: double;
@@ -29,7 +42,25 @@ table {
     background-color: white;
     }
 .odd{
-    background-color: green;
+    background-color: #F4A090;
+    }
+    
+.move_image{
+    position: relative;
+    top: -90px;
+    }
+    
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+
+
+    
+#foot {
+    text-align: center;
     }
 
 nav ul {
