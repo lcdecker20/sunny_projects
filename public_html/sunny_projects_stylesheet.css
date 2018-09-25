@@ -21,6 +21,7 @@ h1 {
     
     text-align: center;
     font-size: 40px;
+
 }
 
 h2 {
@@ -46,7 +47,9 @@ table {
     
 .move_image{
     position: relative;
-    top: -90px;
+    top: -75px;
+    left: 30%;
+    
     }
     
 .center{
@@ -62,14 +65,7 @@ table {
     text-align: center;
     }
 
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #F26144;
-  font-family: arial,sans-serif;
-}
+
 
 nav li {
   float: left;
