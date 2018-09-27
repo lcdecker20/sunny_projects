@@ -21,6 +21,7 @@ h1 {
     
     text-align: center;
     font-size: 40px;
+    font-color: #ED553B;
 
 }
 
@@ -47,8 +48,8 @@ table {
     
 .move_image{
     position: relative;
-    top: -75px;
-    left: 30%;
+    top: -60px;
+    left: 27%;
     
     }
     
