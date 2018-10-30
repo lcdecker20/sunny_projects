@@ -45,7 +45,7 @@
 
         <p> Sunny Island is a great place to be and very easy to get to, especially if you know where you're going!</p>
         <p>All you have to do is book a flight right into the heart of the island or you can get a boat. What? Were you expecting to drive?!</p>
-        <p> Once you are in the center of the island, I&dash;53 will take you to any of our amazing<a class="btn btn-link" href="attractions_sunny.html" role="button">attractions</a>and they will be less than an hour
+        <p> Once you are in the center of the island, I&dash;53 will take you to any of our amazing<a class="btn btn-link" href="attractions_sunny.php" role="button">attractions</a>and they will be less than an hour
 away.</p> 
 
     <h3> Contact Information</h3>

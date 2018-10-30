@@ -34,47 +34,8 @@
         <img class = "move_image" alt='Sunny Island logo' src='images/sun.png' width ="100" height = '100'>
     </header>
     
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-      <a class="navbar-brand" href="main_page.html">Sunny Island</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+      <?php include 'navigation.php'; ?>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-        <ul class="navbar-nav mr-auto">
-          
-
-          <li class="nav-item">
-            <a class="nav-link" href="main_page.html">Home</a>
-          </li>
-
-          
-         <li class="nav-item active">
-            <a class="nav-link" href="about.html">About <span class="sr-only">(current)</span></a>
-          </li>
-          
-           <li class="nav-item">
-            <a class="nav-link" href="attractions_sunny.html">Attractions</a>
-          </li>
-          
-           <li class="nav-item">
-            <a class="nav-link" href="restaurants.html">Restaurants</a>
-          </li>
-          
-           <li class="nav-item">
-            <a class="nav-link" href="sunny_festival.html">Festival</a>
-          </li>
-          
-           <li class="nav-item">
-            <a class="nav-link" href="directions.html">Directions</a>
-          </li>
-
-         
-        </ul>
-
-      </div>
-    </nav>
     
     <br>
     
@@ -84,10 +45,10 @@
 
     <p> Does your dream vacation happen somewhere on beach? Perhaps you dream of staying at a 5-star resort, being served while lounging by the beach. Worried about kids becoming bored? What if there was a place you could relax, while the kids are enjoying an amusement park. Well, if this sounds like you, Sunny Island is the perfect vacation spot for you and your family. Sunny Islands is full of endless adventures! From relaxing at the beach to going to amusement parks, Sunny Islands is the perfect vacation destination!</p> 
 
-    <p> Sunny Island is a beautiful place with plenty to do. These <a class="btn btn-link" href="restaurants.html" role="button">restaurants</a> have some of the best food in the country.</p>
+    <p> Sunny Island is a beautiful place with plenty to do. These <a class="btn btn-link" href="restaurants.php" role="button">restaurants</a> have some of the best food in the country.</p>
 
 
-    <p> If you need a little fun in your life, you should also check out our <a class="btn btn-link" href="attractions_sunny.html" role="button">attractions</a>.
+    <p> If you need a little fun in your life, you should also check out our <a class="btn btn-link" href="attractions_sunny.php" role="button">attractions</a>.
 
 If you need a place to stay, Sunny Island offers numerous resorts!</p>
 
@@ -97,9 +58,8 @@ If you need a place to stay, Sunny Island offers numerous resorts!</p>
     <img class = "center" src="images/map.png" alt="Map of Sunny Island" />
  <br>
  
- <footer id="foot"><h6><em> This is a publication of Sunny Island Resorts and is owned by Sunny Island Resorts<!-- heyo prefessor craven -->
-  and copies of this not sanctioned by Sunny Island Resorts are illegal and subject to criminal fines and punishment.</em></h6>
-  </footer>
+     <?php include 'footer.php'; ?>
+
   </div>
   
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

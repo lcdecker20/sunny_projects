@@ -47,10 +47,10 @@
 
     <p> Does your dream vacation happen somewhere on beach? Perhaps you dream of staying at a 5-star resort, being served while lounging by the beach. Worried about kids becoming bored? What if there was a place you could relax, while the kids are enjoying an amusement park. Well, if this sounds like you, Sunny Island is the perfect vacation spot for you and your family. Sunny Islands is full of endless adventures! From relaxing at the beach to going to amusement parks, Sunny Islands is the perfect vacation destination!</p> 
 
-    <p> Sunny Island is a beautiful place with plenty to do. These <a class="btn btn-link" href="restaurants.html" role="button">restaurants</a> have some of the best food in the country.</p>
+    <p> Sunny Island is a beautiful place with plenty to do. These <a class="btn btn-link" href="restaurants.php" role="button">restaurants</a> have some of the best food in the country.</p>
 
 
-    <p> If you need a little fun in your life, you should also check out our <a class="btn btn-link" href="attractions_sunny.html" role="button">attractions</a>.
+    <p> If you need a little fun in your life, you should also check out our <a class="btn btn-link" href="attractions_sunny.php" role="button">attractions</a>.
 
 If you need a place to stay, Sunny Island offers numerous resorts!</p>
 
