@@ -11,7 +11,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link" href="main_page.php">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
 
           
